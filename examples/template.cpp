@@ -1,5 +1,5 @@
 
-#include "PeruGTK/include.h"
+#include "../PeruGTK/include.h"
 
 
 peruHost mainHost;

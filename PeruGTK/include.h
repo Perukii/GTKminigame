@@ -1,5 +1,6 @@
 
 #include <gtk/gtk.h>
-#include "base.h"
+
+#include "draw.h"
 #include "cssProvide.h"
 #include "host.h"
